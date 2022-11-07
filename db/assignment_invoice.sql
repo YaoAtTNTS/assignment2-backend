@@ -18,6 +18,7 @@
 --
 -- Table structure for table `invoice`
 --
+use assignment;
 
 DROP TABLE IF EXISTS `invoice`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;

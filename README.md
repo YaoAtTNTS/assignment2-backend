@@ -10,6 +10,9 @@ Refer to the [Java 1.8 installation guide](https://www.java.com/en/download/help
 
 Refer to the [Mysql installation guide](https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_HowTo.html) for Windows.
 
+3. Git
+
+Refer to the [Git installation guide](https://github.com/git-guides/install-git) for Windows
 
 ## Run the Application Locally
 1. Open cmd, navigate to the directory where you want to download the source code.
