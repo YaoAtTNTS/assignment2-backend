@@ -23,7 +23,7 @@ Refer to the [Git installation guide](https://github.com/git-guides/install-git)
 
 4. Open the file ./assignment2-backend/src/main/resources/application.yml, change the username at line 12 and the password at line 13 into your own mysql client username and password.
 
-5. Run './gradlew clean bootJar'
+5. Run 'gradlew clean bootJar'. If it's not working, run './gradlew clean bootJar'
 
 6. Run 'cd ./build/libs' to navigate to the project jar package dir.
 
