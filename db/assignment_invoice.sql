@@ -28,7 +28,7 @@ CREATE TABLE `invoice` (
   `invoice_no` varchar(32) DEFAULT NULL,
   `stock_code` varchar(32) DEFAULT NULL,
   `description` varchar(100) DEFAULT NULL,
-  `quantity` smallint DEFAULT NULL,
+  `quantity` int DEFAULT NULL,
   `invoice_date` varchar(32) DEFAULT NULL,
   `unit_price` double DEFAULT NULL,
   `customer_id` varchar(32) DEFAULT NULL,
